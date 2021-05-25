@@ -1,2 +1,2 @@
 # cat_n_dog
-Image Classifier
+playing around with neural network
