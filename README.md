@@ -1,1 +1,1 @@
-# Machine Learning
+# Machine Learning mini-projects
